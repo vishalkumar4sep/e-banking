@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_URL =
   process.env.NODE_ENV === "production"
-    ? "https://ebank-2t3r.onrender.com/api/users/"
+    ? "https://e-banking-yn22.onrender.com/api/users/"
     : "http://localhost:5000/api/users/";
 
 //Get All Users

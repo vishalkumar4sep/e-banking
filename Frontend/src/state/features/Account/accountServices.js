@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_URL =
   process.env.NODE_ENV === "production"
-    ? "https://YourAPIHost/api/account/"
+    ? "https://e-banking-yn22.onrender.com/api/account/"
     : "http://localhost:5000/api/account/";
 
 //Get Account
