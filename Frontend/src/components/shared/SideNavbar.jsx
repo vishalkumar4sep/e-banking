@@ -106,13 +106,13 @@ export const SideNavbar = ({ admin = null, user = null }) => {
         </div>
         <div
           className="
-            h-screen overflow-y-auto px-8 py-8 sticky top-0 scrollbar-thin scrollbar-track-transparent scrollbar-thumb-blue-400"
+            h-screen overflow-y-auto px-8 py-8 sticky top-0 scrollbar-thin scrollbar-track-transparent scrollbar-thumb-blue-400 bg-slate-900"
         >
           {/* Logo */}
           <Logo />
 
           {/* Welcome Message */}
-          <div className="flex items-center p-2 my-4 bg-blue-200 text-sm font-bold text-black-800 rounded shadow">
+          <div className="flex items-center p-2 my-4 bg-red-200 text-sm font-bold text-pink-700 rounded shadow">
             <AiFillHeart className="mr-1" size={22} />
             <span className="w-full">
               {`Welcome, `}

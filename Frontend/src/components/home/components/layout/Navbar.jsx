@@ -75,7 +75,7 @@ export default function Navbar() {
             {navItems.map((navItem, index) => (
               <a
                 key={navItem}
-                className="flex justify-center items-center   p-3 !font-sans font-bold rounded-lg hover:text-white hover:bg-slate-800"
+                className="flex justify-center items-center p-3 !font-sans font-bold rounded-lg hover:text-white hover:bg-slate-800"
                 href={`#${navItem}`}
               >
                 {navIcons[index]}
@@ -132,7 +132,7 @@ export default function Navbar() {
           {navItems.map((navItem, index) => (
             <a
               key={navItem}
-              className="nav-links flex justify-center items-center gap-[1px] py-2 !font-sans font-semibold bg-blue-200 border-x-4 border-blue-800 hover:underline focus:underline hover:text-slate-800 focus:text-slate-800"
+              className="nav-links flex justify-center items-center gap-[1px] py-2 !font-sans font-semibold bg-blue-200 border-x-4 hover:underline focus:underline hover:text-slate-800 focus:text-slate-800"
               href={`#${navItem}`}
               onClick={() => setIsOpen(!isOpen)}
             >
