@@ -1,4 +1,4 @@
-<h1 id="title" align="center">-e-Banking</h1>
+<h1 id="title" align="center">e-Banking</h1>
 
 <p align="center"><img src="https://socialify.git.ci/mostafakamal22/e-Banking/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
@@ -7,10 +7,6 @@
 <h2>🚀 Demo</h2>
 
 [https://e-banking-yn22.onrender.com/](https://e-banking-yn22.onrender.com/)
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://e-banking-yn22.onrender.com//images/e-bank.webp" alt="project-screenshot" width="100%" height="100%/">
 
 <h2>🧐 Features</h2>
 
